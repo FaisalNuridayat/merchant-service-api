@@ -5,7 +5,7 @@ Merchants can register/create accounts at merchant services. merchant can delete
 Merchants can add products to the merchant service, Merchants can delete products in the merchant service,
 Merchants can update products in the merchant service, Merchants can get their product listings from merchant services
 
-# teknologi yang digunakan adalah :
+# The technology used is: :
 
 - visual studio code
 - node js
