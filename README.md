@@ -12,6 +12,13 @@ this is architecture diagram of merchant service
 
 ![architecture diagram merchant service](https://user-images.githubusercontent.com/116243607/212034339-70d991f5-8a61-47e8-908c-176d92341eec.jpg)
 
+# An Entity Relational Diagram of the merchant service data model 
+
+this is entity relationship that show relation between merchant and product from merchant service
+
+![entitty diagram merchant dan product](https://user-images.githubusercontent.com/116243607/212041559-035854e6-a2bf-459e-90df-8942825dce3c.jpg)
+
+
 
 
 ## RESTful API Endpoints merchant service
