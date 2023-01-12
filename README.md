@@ -12,7 +12,7 @@ Merchants can update products in the merchant service, Merchants can get their p
 - mysql workbench
 - express js
 - postman
-- sequeilze
+- sequeilize
 
 # architecture diagram
 
