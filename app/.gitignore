@@ -2,4 +2,4 @@ authController copy.js
 merchantController copy.js
 productController copy.js
 app copy.js
-authMiddleware.js
+# authMiddleware.js
