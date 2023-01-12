@@ -44,7 +44,7 @@ RESTful API Endpoints :
 | DELETE | `/product/{id}` | Delete a specific product from a merchant service |
 | POST | `/login` | Login merchant service |
 
-#how to use this application, install it on your local computer:
+## how to use this application, install it on your local computer:
 
 ```
 $ npm init
