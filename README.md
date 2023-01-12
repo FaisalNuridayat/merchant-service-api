@@ -6,6 +6,11 @@ Merchants can add products to the merchant service, Merchants can delete product
 Merchants can update products in the merchant service, Merchants can get their product listings from merchant services
 
 
+# architecture diagram
+
+this is architecture diagram of merchant service
+
+![architecture diagram merchant service](https://user-images.githubusercontent.com/116243607/212034339-70d991f5-8a61-47e8-908c-176d92341eec.jpg)
 
 
 
