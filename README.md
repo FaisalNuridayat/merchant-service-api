@@ -36,7 +36,7 @@ RESTful API Endpoints :
 | GET | `/merchant` | list of merchants |
 | GET | `/merchant/{id}` | Get a merchant |
 | PUT | `/merchant/{id}` | Update a merchant |
-| DELETE | `/merchant/id` | Delete a merchant |
+| DELETE | `/merchant/{id}` | Delete a merchant |
 | POST | `/product` | Add product |
 | GET | `/product` | Get products from a merchant service |
 | GET | `/product/{id}` | Get a list spesific product service |
