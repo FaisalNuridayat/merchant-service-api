@@ -18,7 +18,8 @@ Merchants can update products in the merchant service, Merchants can get their p
 
 this is architecture diagram of merchant service
 
-![architecture diagram merchant service](https://user-images.githubusercontent.com/116243607/212034339-70d991f5-8a61-47e8-908c-176d92341eec.jpg)
+![architecture diagram merchant service 1 jpg](https://user-images.githubusercontent.com/116243607/212590649-1b00c4db-b0cc-4cc9-874c-ab9f8f9ceccb.png)
+
 
 # An Entity Relational Diagram of the merchant service data model 
 
